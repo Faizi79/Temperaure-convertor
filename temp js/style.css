@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    margin-top: 20px;
+    background-color: #ccccccaf;
+    border-radius: 20px;
+    text-align: center;
+    width: 270px;
+}
+h1{
+    color: rgb(73, 145, 246);
+}
+input[type='number'] {
+    height: 30px;
+    font-size: large;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    border: none;
+}
+button{
+width: 80px;
+padding: 8px;
+border-radius: 10px;
+border: none;
+background-color: rgb(255, 80, 80);
+color: white;
+font-size: 20px;
+cursor: pointer;
+}
